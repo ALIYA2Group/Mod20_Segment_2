@@ -7,15 +7,15 @@ Second Segment: Build the Pieces: Train your model and build out the database y
 
 # Presentation 
 
-From Segment 1;
-* Selected topic:
-* Reason we selected the topic:
-* Description of the source of data:
-* Questions we hope to answer with the data:
-
-From Segment 2;
 * Description of the data exploration phase of the project
 * Description of the analysis phase of the project
+* If you had more time, where would you like to investigate for finer tuning? 
+* How does it work?
+* Why this specific model?
+* What is the model's accuracy?
+* If there are statistics involved, what stats are being included in analysis and why?
+* If no statistics are involved, what would you include if you had more time?
+* have a description of the model and a discussion about any preprocessing involved. Additionally, an interpretation of the accuracy, precision, and sensitivity of the model should be included with the submission.
 
 Slides in Google Slides
 

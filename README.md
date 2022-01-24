@@ -8,6 +8,15 @@ Second Segment: Build the Pieces: Train your model and build out the database y
 # Presentation 
 
 * Description of the data exploration phase of the project
+
+Hypothesis: If Polar Sea Ice Extent is related to feature properties in table, then changes in the daily/month data will be reducing from time and feature property.  
+The null hypothesis (Ho) is also known as H0 and is generally the hypothesis that can be explained by random chance.
+The alternate hypothesis (Ha) is also known as Ha and is generally the hypothesis that is influenced by non-random events.
+Ho : PH = 0.5
+Ha : PH ≠ 0.5
+
+
+
 * Description of the analysis phase of the project
 * If you had more time, where would you like to investigate for finer tuning? 
 * How does it work?

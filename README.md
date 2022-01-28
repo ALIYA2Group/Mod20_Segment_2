@@ -1,4 +1,4 @@
-# Mod20_Segment_2
+﻿# Mod20_Segment_2
 By the end of this segment, we will have made great strides in building the different pieces of the project. The analysis is coming along, work on your machine learning model has commenced, and the database will be transitioned into an operational, data-holding tool.
 
 # Purpose
@@ -45,9 +45,20 @@ There is one branch for each team member as follows:
 
 Code for the machine learning model, as well as the following:
 * Description of preliminary data preprocessing
+
+Plotted the features against the target to determine correlation and dropped features that demonstrated higher p-values using the statistics library (SHOW SCREENSHOTS)
+
+
+
 * Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+
 * Description of how data was split into training and testing sets
+
 * Explanation of model choice, including limitations and benefits
+
+time series forecasting using TensorFlow. It builds a few different styles of models including Convolutional and Recurrent Neural Networks (CNNs and RNNs).
+
+Forecast using Autoregressive: Make one prediction at a time and feed the output back to the model.
 
 
 # Database 

@@ -1,0 +1,12 @@
+
+  body, html {
+    padding: 10px 0px;
+    background-color: #9d9ea0;
+    }
+.jumbotron {
+  background-color: white;
+  background-image: url('../images/seaice.jpg');
+    background-size: 100% 100%;
+    text-align: center;
+    min-height: 200px;
+  }

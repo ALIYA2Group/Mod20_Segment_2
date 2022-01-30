@@ -84,3 +84,4 @@ A blueprint for the dashboard is created and includes all of the following:
 * Storyboard on a Google Slide(s)
 * Description of the tool(s) that will be used to create the final dashboard
 * Description of interactive element(s)
+[Live view](https://github.com/ALIYA2Group/Mod20_Segment_2/blob/main/seaice.html)

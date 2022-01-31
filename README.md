@@ -85,7 +85,7 @@ A blueprint for the dashboard is created and includes all of the following:
 * Webscrape from NASA's website to get the latest climate change news on the website
 * inks to other sections for team information, dataset and code
 
-[image](https://github.com/ALIYA2Group/Mod20_Segment_2/blob/main/Pictures/Dashboard.png)
+![image](https://github.com/ALIYA2Group/Mod20_Segment_2/blob/main/Pictures/Dashboard.png)
 
 ## Next steps for Segment 3 and 4
 

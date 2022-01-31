@@ -2,7 +2,7 @@
 
 # Arctic Sea Ice Extent - When will it disappear?
 
-[Link to Project Presentation](https://docs.google.com/presentation/d/1ZF7Va3-mu2PNQNj-G3G72x1l8h4IogPnJsUgIxgYmI0/edit#slide=id.p1)
+[Link to Project Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSofhRxU43DmKSytv7ntM_sr90w9HX3bIND-oY3xARDFdJiEUhgaYpi7iF7ZpzVxVoBYCvWRbSFTIjW/pub?start=false&loop=false&delayms=3000)
 
 
 ## Github - [Link to Github Repository for Segment 2](https://github.com/ALIYA2Group/Mod20_Segment_2)
